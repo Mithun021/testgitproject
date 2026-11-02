@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Welcome to My Git Project</h1>
+    <p>This is a simple PHP project using Git for version control.</p>
 </body>
 </html>
