@@ -8,6 +8,6 @@
 <body>
     <h1>Welcome to My Git Project</h1>
     <p>This is a simple PHP project using Git for version control.</p>
-    <h1>Hello GIT</h1>
+    <h1>Hello GIT - Version Control Made Easy</h1>
 </body>
 </html>
